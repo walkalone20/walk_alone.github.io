@@ -8,7 +8,7 @@
     <link href="/walkalone20/walk_alone.github.io/2022/12/29/test/"/>
     <url>/walkalone20/walk_alone.github.io/2022/12/29/test/</url>
     
-    <content type="html"><![CDATA[<p>This is a test.</p><p>Here is some math equation:</p><p>$$<br>x^2+y^2&#x3D;z^2<br>$$</p>]]></content>
+    <content type="html"><![CDATA[<p>This is a test.</p><p>Here is some math equation:</p><p>$$<br>x^2+y^2&#x3D;z^2<br>$$</p><p>Some code here:</p><figure class="highlight cpp"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><code class="hljs cpp"><span class="hljs-meta">#<span class="hljs-keyword">include</span> <span class="hljs-string">&lt;bits/stdc++.h&gt;</span></span><br><span class="hljs-keyword">using</span> <span class="hljs-keyword">namespace</span> std;<br><span class="hljs-function"><span class="hljs-type">int</span> <span class="hljs-title">main</span><span class="hljs-params">()</span></span><br><span class="hljs-function"></span>&#123;<br>    <span class="hljs-keyword">return</span> <span class="hljs-number">0</span>;<br>&#125;<br></code></pre></td></tr></table></figure>]]></content>
     
     
     
